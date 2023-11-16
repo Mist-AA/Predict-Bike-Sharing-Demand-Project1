@@ -6,4 +6,4 @@ The model was submitted to kaggle leaderboard as well. It was finalized after tu
 The project was made on both AWS SageMaker and Google Collab for personal testing.
 
 ### Source
-This project was made as part of the Machine Learning Fundamentals Nanodegree on Udacity under AWS AI and ML scholarship program.
+This project was made as part of the Machine Learning Fundamentals Nanodegree on Udacity as part of the advanced phase of the AWS AI and ML scholarship program in 2023.
